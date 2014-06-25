@@ -1,3 +1,5 @@
-# Hacker son environnement pour améliorer son code
 
-L'histoire d'une idée sur pourquoi maîtriser l'espace physique avant de vouloir maîtriser l'espace numérique.
+
+#Mesure Émoi#
+
+Retour d'expérience sur une prestation d'amélioration de la performance
